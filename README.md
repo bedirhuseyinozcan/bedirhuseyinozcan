@@ -1,4 +1,4 @@
-[![MasterHead](https://substackcdn.com/image/fetch/$s_!hEyj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b4d07a0-115e-4112-a4ae-a0a30529c59d_1084x576.png)
+![MasterHead](https://substackcdn.com/image/fetch/$s_!hEyj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b4d07a0-115e-4112-a4ae-a0a30529c59d_1084x576.png)
 <h1 align="center">Hi 👋, I'm Bedir Hüseyin Özcan</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
