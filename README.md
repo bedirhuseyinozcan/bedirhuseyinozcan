@@ -1,4 +1,4 @@
-[![MasterHead](https://www.technopat.net/sosyal/eklenti/1656076962465-png.1430148/)
+[![MasterHead]([https://www.technopat.net/sosyal/eklenti/1656076962465-png.1430148/](https://s3-cdn.cmlabs.co/page/2023/10/04/web-developer-definition-skills-and-responsibilities-908401.png))
 <h1 align="center">Hi 👋, I'm Bedir Hüseyin Özcan</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
